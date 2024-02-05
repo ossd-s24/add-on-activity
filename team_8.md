@@ -1,3 +1,5 @@
+# Part 3
+
 ## 1. What does this repo use the README.md file? What kind of information is included there?
 * Rundown of what extensions are and how they work
 * Explanation of what the webextensions-examples repository is
@@ -31,3 +33,23 @@ This `CODE_OF_CONDUCT.md` serves as a notice that this project is governed by [M
 
 ## 7. If a person working with the content of this repository runs into problems or has questions, what can they do?
 They can post a query on the add-ons discourse forum, email the dev-addons mailing list or contact the add-ons team in the Add-ons room in Matrix. The final thing they could do is file a bug report.
+
+# Part 4
+
+## 1. What is the homepage for the extension?
+[https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+
+## 2. What is the license under which the extension is distributed?
+[GNU General Public License v3.0](https://github.com/gorhill/uBlock/blob/master/LICENSE.txt)
+
+## 3. Can you find a code repository for this extension?
+[https://github.com/gorhill/uBlock#ublock-origin](https://github.com/gorhill/uBlock#ublock-origin)
+
+## 4. Is the extension that you picked an open source project?
+Yes, Ublock Origin is free and open source.
+
+## 5. Can you find information about how many different users contribute to this project? If so, specify how many.
+As of today, 108 users have contributed to the project. 
+
+## 6. If the extension is an open source extension, is it open to contributions? If so, how did the mantainers communicate that fact?
+Ublock encourages people to contribute through links to contributor pages on Github and Crowdin on the extension page in the Firefox market, there is a subreddit, and there is a [CONTRIBUTING](https://github.com/gorhill/uBlock/blob/master/CONTRIBUTING.md) page on the Github.
