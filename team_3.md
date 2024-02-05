@@ -31,3 +31,29 @@
 - They can ask a question on the add-ons discourse forum, email the dev-addons mailing list, or ask in the Add-ons channel on Mozilla’s Matrix instance.
 
 # Part 4
+
+- uBlock Origin: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+
+1. What is the homepage for the extension?
+
+- The homepage for the uBlock extension is its Github page: https://github.com/gorhill/uBlock#ublock-origin
+
+2. What is the license under which the extension is distributed?
+
+- The extension is distributed under the GNU General Public License. 
+
+3. Can you find a code repository for this extension?
+
+- Yes, The code repository for this extension is also the homepage listed for the extension: https://github.com/gorhill/uBlock#ublock-origin
+
+4. Is the extension that you picked an open source project?
+
+- Yes, Ublock origin is an open source project. 
+
+5. Can you find information about how many different users contribute to this project? If so, specify how many.
+
+- Around 108 contributors on GitHub. The information is located on the bottom right of the repository 
+
+6. If the extension is an open source extension, is it open to contributions? If so, how did the mantainers communicate that fact?
+
+- Yes, it is communicated through the CONTRIBUTING.md file on its Github.
