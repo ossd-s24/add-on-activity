@@ -15,3 +15,20 @@ The LICENSE file is used to show that the project has a license. It needs to be 
 ### Question 6
 
 ### Question 7
+
+## Part 4
+uBlock Origin - https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+
+### Question 1
+https://github.com/gorhill/uBlock#ublock-origin
+
+### Question 2
+GNU General Public License
+
+### Question 3
+
+### Question 4
+
+### Question 5
+
+### Question 6
