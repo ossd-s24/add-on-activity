@@ -11,3 +11,8 @@ Modification, and distribution. It does not allow Trademark use
 
 ## question 4
 - one type of contribution to this repository that does not require writing any code is contributing a translation.
+
+## question 6
+- Violence and Threats of Violence
+- use of Derogatory Language
+- Unwelcome Sexual Attention or Physical Contact
