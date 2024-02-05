@@ -7,3 +7,7 @@ The README.md first has a brief overview on the purpose of the repo and how to u
 - it uses the liscense file to list out what it allows and does not allow. For example, it allows Commercial use
 Modification, and distribution. It does not allow Trademark use
 - it should be in a repository
+
+
+## question 4
+- one type of contribution to this repository that does not require writing any code is contributing a translation.
