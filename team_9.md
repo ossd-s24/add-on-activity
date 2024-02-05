@@ -1,4 +1,4 @@
-# Team 9 Answers
+# Part 3 
 
 ### What does this repo use the README.md file? What kind of information is included there?
 
@@ -28,3 +28,24 @@ Provide guidelines for the community to create an environment that welcomes cont
 ### If a person working with the content of this repository runs into problems or has questions, what can they do?
 
 If a person working with the content of this repository runs into problems or has questions, they would have to post a question on the add-ons discourse forum, email the dev-addons mailing list, and contact the add-ons team in the Add-ons room on Matrix.  However, if the issue is that you can resolve a bug, then they must file a bug.
+
+# Part 4
+### What is the homepage for the extension?
+https://addons.mozilla.org/en-US/firefox/addon/read-aloud/
+The home page for the extension includes the name of the extension, who created it, the button to download, the rating of the extension, pictures of the logo, and how the extension looks and works,  as well as the permissions that are necessary for the extension. 
+
+### What is the license under which the extension is distributed?
+It’s [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
+
+### Can you find a code repository for this extension?
+[https://github.com/ken107/read-aloud](https://github.com/ken107/read-aloud)
+
+### Is the extension that you picked an open source project?
+It is an open source project. 
+
+### Can you find information about how many different users contribute to this project? If so, specify how many.
+20 contributors listed on Github
+
+### If the extension is an open source extension, is it open to contributions? If so, how did the mantainers communicate that fact?
+The extension is open to contributions. The maintainers communicate the fact in the readme.md file. There is a section that says, “Contribute,” where it shows non-coding contributions as well as coding contributions.
+
