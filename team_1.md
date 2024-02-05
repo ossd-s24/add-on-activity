@@ -53,6 +53,9 @@
 
     They can go to the issues section of github to report problems, or contact the core contributors directly
 
+
+## Part 4
+
     What is the homepage for the extension?
 
     https://addons.mozilla.org/en-US/firefox/addon/adblock-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=homepage-collection-featured
