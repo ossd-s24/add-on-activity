@@ -9,10 +9,13 @@ Modification, and distribution. It does not allow Trademark use
 - it should be in a repository
 
 
-## question 4
+## Question 4
 - one type of contribution to this repository that does not require writing any code is contributing a translation.
 
-## question 6
+## Question 6
 - Violence and Threats of Violence
 - use of Derogatory Language
 - Unwelcome Sexual Attention or Physical Contact
+
+## Question 7 
+- if a contributor encounters an issue, they can post a query on the add-ons discourse forum or email the dev-addons mailing list.
