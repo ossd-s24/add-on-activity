@@ -17,4 +17,15 @@
    - Derogatory Language
   
 7. If a person working with the content of this repository runs into problems or has questions, what can they do?
-   They can post on the [add-ons community forum](https://discourse.mozilla.org/c/add-ons/development/) or ask in the [Add-ons channel](https://chat.mozilla.org/#/room/#addons:mozilla.org) on [Mozilla's Matrix instance](https://wiki.mozilla.org/Matrix). 
+   They can post on the [add-ons community forum](https://discourse.mozilla.org/c/add-ons/development/) or ask in the [Add-ons channel](https://chat.mozilla.org/#/room/#addons:mozilla.org) on [Mozilla's Matrix instance](https://wiki.mozilla.org/Matrix).
+
+
+## Part 4
+
+
+   1. What is the homepage for the extension?
+   2.  What is the license under which the extension is distributed?
+   3. Can you find a code repository for this extension?
+   4. Is the extension that you picked an open source project?
+   5. Can you find information about how many different users contribute to this project? If so, specify how many.
+   6. If the extension is an open source extension, is it open to contributions? If so, how did the mantainers communicate that fact?
