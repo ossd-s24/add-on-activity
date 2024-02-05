@@ -31,4 +31,6 @@
 
 ## Part 4
 
+https://addons.mozilla.org/en-US/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=recommended_fallback
 
+https://github.com/darkreader/darkreader
