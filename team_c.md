@@ -24,8 +24,16 @@
 
 
    1. What is the homepage for the extension?
+      [firefox addon page for U Block origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+      <br>
+      [github homepage](https://github.com/gorhill/uBlock#ublock-origin)
    2.  What is the license under which the extension is distributed?
+       GNU GENERAL PUBLIC LICENSE
    3. Can you find a code repository for this extension?
+       [github homepage](https://github.com/gorhill/uBlock#ublock-origin)
    4. Is the extension that you picked an open source project?
+      yes!
    5. Can you find information about how many different users contribute to this project? If so, specify how many.
+      according to github, there are 108 contributors
    6. If the extension is an open source extension, is it open to contributions? If so, how did the mantainers communicate that fact?
+       It is open to contributions in the form of translations and issue reporting, but it does not seem like they are totally open to code contributions. Details for this were contained in the CONTRIBUTING.md file
