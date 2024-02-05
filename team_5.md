@@ -12,6 +12,9 @@ To define how other people can use this open source repository
 Yes it has to be in the repository
 
 3. What is the purpose of the CONTRIBUTING.md file?
+
+It defines how you can contribute, guidlines for contributing, and a coding style guide for anyone who makes contributions to the code.
+
 4. Describe one type of contribution to this repository that does not require writing any code.
 5. What is the purpose of the CODE_OF_CONDUCT.md document?
 6. Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.
