@@ -16,6 +16,11 @@ Yes it has to be in the repository
 It defines how you can contribute, guidlines for contributing, and a coding style guide for anyone who makes contributions to the code.
 
 4. Describe one type of contribution to this repository that does not require writing any code.
+
+Contributing a translation.
+
 5. What is the purpose of the CODE_OF_CONDUCT.md document?
-6. Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.
-7. If a person working with the content of this repository runs into problems or has questions, what can they do?
+
+It links to the Mozilla Code of Conduct violations, and how to report violations.
+1. Describe three types of behaviors that violate the Mozilla Community Participation Guidelines.
+2. If a person working with the content of this repository runs into problems or has questions, what can they do?
