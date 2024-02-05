@@ -1,3 +1,5 @@
+# Part 3
+
 1. What does this repo use the README.md file? What kind of information is included there?
 
 - This repo uses the README.md file to provide an overall description of what the project is about as well as how a user can get started with using the repository. The README.md file also provides information to assist users with any problems they may encounter. The kind of information included are links to a learn more page discourse form, email list, and contact information of the addon team. At the end of the document, there is a way to report bugs and a link to find more information about contributing to the repo.
@@ -27,3 +29,5 @@
 7. If a person working with the content of this repository runs into problems or has questions, what can they do?
 
 - They can ask a question on the add-ons discourse forum, email the dev-addons mailing list, or ask in the Add-ons channel on Mozilla’s Matrix instance.
+
+# Part 4
