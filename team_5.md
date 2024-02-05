@@ -6,6 +6,11 @@ How to use the repository, how to install it, and links to go to if you encounte
 
 
 2. What does this repo use the LICENSE file? Does it need to be in a repository?
+
+To define how other people can use this open source repository
+
+Yes it has to be in the repository
+
 3. What is the purpose of the CONTRIBUTING.md file?
 4. Describe one type of contribution to this repository that does not require writing any code.
 5. What is the purpose of the CODE_OF_CONDUCT.md document?
