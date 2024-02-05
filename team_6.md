@@ -12,3 +12,12 @@
 6. Three types of behavior is violence and threats of violence, instigating unacceptable behavior, and personal attacks. Notably, drinking too much alcohol at an in-person forum or meeting is also explicitly unacceptable. 
 
 7. If anyone encounters an issue, they can post a query on the official mozilla forum moderated and published by Mozilla. You can also email the dev addons mailing list or contact the addons team in a Mozilla chat room, which has 403 access denied. 
+
+# Part Four 
+
+1. https://mybrowseraddon.com/adblocker-for-youtube.html
+2. Mozilla Public License 2.0
+3. We can't find a code repository. However, there is another extension that can be downloaded, in order to see the source code fo the original extension that we picked. 
+4. Yes, the extension is open source. 
+5. We couldn't find information about how many users contribute to this project. 
+6. The extension is open to contributions, but you have to fill out a contact form if you are interested in contributing. 
