@@ -7,3 +7,15 @@ The README.md first has a brief overview on the purpose of the repo and how to u
 - it uses the liscense file to list out what it allows and does not allow. For example, it allows Commercial use
 Modification, and distribution. It does not allow Trademark use
 - it should be in a repository
+
+
+## Question 4
+- one type of contribution to this repository that does not require writing any code is contributing a translation.
+
+## Question 6
+- Violence and Threats of Violence
+- use of Derogatory Language
+- Unwelcome Sexual Attention or Physical Contact
+
+## Question 7 
+- if a contributor encounters an issue, they can post a query on the add-ons discourse forum or email the dev-addons mailing list.

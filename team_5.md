@@ -31,4 +31,22 @@
 
 ## Part 4
 
+https://addons.mozilla.org/en-US/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=recommended_fallback
+
+https://github.com/darkreader/darkreader
+
+1. What is the homepage for the extension?
+    [darkreader.org](https://darkreader.org/)
+   
+2. What is the license under which the extension is distributed?
+    MIT
+3. Can you find a code repository for this extension?
+   Yes, https://github.com/darkreader/darkreader 
+4. Is the extension that you picked an open source project?
+   Yes
+   
+5. Can you find information about how many different users contribute to this project? If so, specify how many.
+   Yes, 1231
+6. If the extension is an open source extension, is it open to contributions? If so, how did the mantainers communicate that fact?
+   Yes, there is a Contributing.md file
 
