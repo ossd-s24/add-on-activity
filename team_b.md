@@ -6,3 +6,12 @@
 * Code of Conduct presents guildines for the behavior expected from contributing members
 * Racism, Sexism, Homophobia
 * One can report an instance of harrasment by emailing the mozilla employee hotline 
+
+# Part 4 
+* [Unhook](https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/)
+* Mozilla Public License Version 2.0
+* [Yes](https://github.com/lawrencehook/remove-youtube-suggestions)
+* Yes
+* There are 7 contributors
+* It is open source, the one mainter is Lawrence Hook
+  
