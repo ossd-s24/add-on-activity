@@ -50,3 +50,6 @@ https://github.com/darkreader/darkreader
 6. If the extension is an open source extension, is it open to contributions? If so, how did the mantainers communicate that fact?
    Yes, there is a Contributing.md file
 
+## Part 5
+
+https://github.com/ossd-s24/FindnReplace
