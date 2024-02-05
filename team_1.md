@@ -52,3 +52,32 @@
 7. If a person working with the content of this repository runs into problems or has questions, what can they do?
 
     They can go to the issues section of github to report problems, or contact the core contributors directly
+
+    What is the homepage for the extension?
+
+    https://addons.mozilla.org/en-US/firefox/addon/adblock-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=homepage-collection-featured
+
+
+    What is the license under which the extension is distributed?
+
+    Mozilla Public License 2.0
+
+
+    Can you find a code repository for this extension?
+
+    https://gitlab.com/adblockinc/ext/adblock/adblock
+
+
+    Is the extension that you picked an open source project?
+
+    Yes
+
+
+    Can you find information about how many different users contribute to this project? If so, specify how many.
+
+    38 members contributing
+
+
+    If the extension is an open source extension, is it open to contributions? If so, how did the mantainers communicate that fact?
+
+    Yes, all information for developers is embedded in the read me file 
