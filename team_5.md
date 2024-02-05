@@ -1,6 +1,10 @@
 ## Part 3
 
 1. What does this repo use the README.md file? What kind of information is included there?
+
+How to use the repository, how to install it, and links to go to if you encounter issues.
+
+
 2. What does this repo use the LICENSE file? Does it need to be in a repository?
 3. What is the purpose of the CONTRIBUTING.md file?
 4. Describe one type of contribution to this repository that does not require writing any code.
