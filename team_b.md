@@ -15,3 +15,5 @@
 * There are 7 contributors
 * It is open source, the one mainter is Lawrence Hook
   
+# Part 5 
+[Link to README](https://github.com/ossd-s24/weathermen/blob/main/README.md) 
