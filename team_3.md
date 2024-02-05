@@ -57,3 +57,6 @@
 6. If the extension is an open source extension, is it open to contributions? If so, how did the mantainers communicate that fact?
 
 - Yes, it is communicated through the CONTRIBUTING.md file on its Github.
+
+# Part 5
+
