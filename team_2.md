@@ -29,6 +29,12 @@ The contributing doc labels different types of cotributions and different ways t
 
 Team's favorite extension: [Grammarly](https://app.grammarly.com/)
 
+## Question 1
+- https://www.grammarly.com/
+
+## Question 2
+- Grammarly is licensed under it own licensing agreement found here: https://www.grammarly.com/terms.
+  
 ## Question 3
 - We could not find a code repository for this extension
 
