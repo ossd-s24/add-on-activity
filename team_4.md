@@ -33,5 +33,6 @@ GNU General Public License
 ### Question 4
 
 ### Question 5
-
+Yes. There is a contributors.md file on GitHub and Crowdin. On Crowdin, there are 1547 Project members. On GitHub, it only shows top 99 contributors.
 ### Question 6
+The extension is an open source extension. It specifies so on its github README.md. There is a CONTRIBUTING.md file as well that provides links where to go depending on the contributions objective. Maintainers were very clear
