@@ -14,6 +14,9 @@ The contributing doc labels different types of cotributions and different ways t
 ## Question 4
 - one type of contribution to this repository that does not require writing any code is contributing a translation.
 
+## Question 5
+- Though the actual CODE_OF_CONDUCT.md document didn't include much information, it included links to Mozilla's Community Participation Guidelines and How to Report page. The Community Participation Guidelines emphasized the importance of openness, collaboration, and participation, and detailed expected behaviors from the community. It also outlined inappropriate behaviors and their consequences. Unlike other Codes of Conduct I read, it seemed like Mozilla strived to enforce these guidelines through consequences.
+
 ## Question 6
 - Violence and Threats of Violence
 - use of Derogatory Language
