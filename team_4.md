@@ -29,8 +29,10 @@ https://github.com/gorhill/uBlock#ublock-origin
 GNU General Public License
 
 ### Question 3
+The code repository was found on the About This Extension section under the Documentation hyperlink. It can also be found under the More Information section under Add-on Links and the Homepage hyperlink.
 
 ### Question 4
+The uBlock project is an open source project with a public GitHub repository, a license file, and a contributing file.
 
 ### Question 5
 Yes. There is a contributors.md file on GitHub and Crowdin. On Crowdin, there are 1547 Project members. On GitHub, it only shows top 99 contributors.
