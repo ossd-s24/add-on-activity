@@ -53,3 +53,6 @@ As of today, 108 users have contributed to the project.
 
 ## 6. If the extension is an open source extension, is it open to contributions? If so, how did the mantainers communicate that fact?
 Ublock encourages people to contribute through links to contributor pages on Github and Crowdin on the extension page in the Firefox market, there is a subreddit, and there is a [CONTRIBUTING](https://github.com/gorhill/uBlock/blob/master/CONTRIBUTING.md) page on the Github.
+
+# Part 5
+[Tyler1ify Repo](https://github.com/ossd-s24/tyler1ify)
