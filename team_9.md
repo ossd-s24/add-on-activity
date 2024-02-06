@@ -49,3 +49,5 @@ It is an open source project.
 ### If the extension is an open source extension, is it open to contributions? If so, how did the mantainers communicate that fact?
 The extension is open to contributions. The maintainers communicate the fact in the readme.md file. There is a section that says, “Contribute,” where it shows non-coding contributions as well as coding contributions.
 
+#Part 5
+Link to the repo: https://github.com/ossd-s24/FunTime
