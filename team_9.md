@@ -50,4 +50,4 @@ It is an open source project.
 The extension is open to contributions. The maintainers communicate the fact in the readme.md file. There is a section that says, “Contribute,” where it shows non-coding contributions as well as coding contributions.
 
 # Part 5
-Link to the repo: https://github.com/ossd-s24/FunTime
+Link to the repo: https://github.com/ossd-s24/TikTock
