@@ -84,3 +84,8 @@
     If the extension is an open source extension, is it open to contributions? If so, how did the mantainers communicate that fact?
 
     Yes, all information for developers is embedded in the read me file 
+
+
+## Part 5
+
+Link for our extension's repository: https://github.com/ossd-s24/insult-reminders
