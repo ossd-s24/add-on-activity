@@ -1,3 +1,5 @@
+# Part 3
+
 1. What does this repo use the README.md file? What kind of information is included there?
 - The read me includes what the repo is for, a link to a wiki about the team maintaining the repo, an installation guide, how to contribute to the repo, information concerning support for other browsers, and who to contact about bugs/issues.
 
@@ -18,3 +20,8 @@
 
 7. If a person working with the content of this repository runs into problems or has questions, what can they do?
 - 
+
+# Part 4
+
+# Part 5
+[WebPad](https://github.com/ossd-s24/WebPad/tree/main): An extension for writing notes on a webpage.
